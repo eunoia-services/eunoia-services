@@ -7,7 +7,7 @@ import '../css/Navbar.css'
 export default ()=>{
     return (
         <Navbar className='navbar' bg="primary" variant="dark" expand="lg" fixed='top'>
-            <Navbar.Brand href="/">Eunoia Services</Navbar.Brand>
+            <Navbar.Brand href="#">Eunoia Services</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav" className="justify-content-end">
                 {/* <Nav.Link href="/">Home</Nav.Link> */}
