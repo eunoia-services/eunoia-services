@@ -1,0 +1,13 @@
+.why{
+    background-color: var(--green);
+    padding: 60px;
+}
+
+.why h1{
+    margin-bottom: 40px;
+    font-weight: 700;
+}
+
+.why img{
+    margin-bottom: 20px;
+}

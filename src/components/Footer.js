@@ -2,9 +2,7 @@ import React from 'react'
 import '../css/Footer.css'
 
 export default ()=>(
-    <section>
-        <div className='container'>
-            <h3>Footer</h3>
-        </div>
-    </section>
+    <footer class='ftr text-center'>
+        Copyright ©2019 All rights reserved | made with ❤ by <a href='https://github.com/skywalker212' target='_blank' rel="noopener noreferrer">Akash Gajjar</a>
+    </footer>
 )

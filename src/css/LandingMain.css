@@ -1,0 +1,24 @@
+.masthead h1{
+    font-size: 70px;
+    color: var(--green);
+    font-weight: bolder;
+  
+}
+
+.masthead p{
+    color:white;
+    font-weight: 500;
+    font-size: 30px;
+      /* -webkit-text-stroke: 0.5px;
+    -webkit-text-stroke-color: black */
+}
+
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    z-index: 1;
+    background-image: url('../assets/cleaner.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}

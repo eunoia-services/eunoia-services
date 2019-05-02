@@ -1,0 +1,11 @@
+.call-now p{
+    color: var(--blue);
+    font-size: 30px;
+    letter-spacing: 5px;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.call-now{
+    height: 100px;
+}

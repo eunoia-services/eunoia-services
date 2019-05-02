@@ -1,0 +1,22 @@
+.contact{
+    padding: 60px;
+    background-color: var(--blue)
+}
+
+.contact h1{
+    margin-bottom: 40px;
+    font-weight: 700;
+    color: white
+}
+
+.contact h3, .contact h5{
+    color: black
+}
+
+.contact p{
+    color: white
+}
+
+.contact h3, .contact h5, .contact p{
+    text-align: left;
+}
