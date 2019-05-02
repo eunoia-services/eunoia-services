@@ -18,7 +18,7 @@
 
 .home-clean{
     min-height: 200px;
-    background-image: url('../assets/home_clean.webp');
+    background-image: url('../assets/home_clean.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -26,7 +26,7 @@
 
 .maid-service{
     min-height: 200px;
-    background-image: url('../assets/maid_service.webp');
+    background-image: url('../assets/maid_service.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -34,7 +34,7 @@
 
 .window-washing{
     min-height: 200px;
-    background-image: url('../assets/window_clean.webp');
+    background-image: url('../assets/window_clean.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -42,7 +42,7 @@
 
 .commercial-clean{
     min-height: 200px;
-    background-image: url('../assets/commercial_clean.webp');
+    background-image: url('../assets/commercial_clean.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -50,7 +50,7 @@
 
 .move-in-clean{
     min-height: 200px;
-    background-image: url('../assets/move_in_clean.webp');
+    background-image: url('../assets/move_in_clean.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -58,7 +58,7 @@
 
 .carpet-clean{
     min-height: 200px;
-    background-image: url('../assets/carpet_clean.webp');
+    background-image: url('../assets/carpet_clean.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
